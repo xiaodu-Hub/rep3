@@ -1,0 +1,34 @@
+IDEA 中的快捷键
+	ctrl + y		删除当前行
+	ctrl + d		复制当前行
+	ctrl + alt + L		格式化代码
+	alt + shift + 向下箭头	将行向下移动
+	alt + shift + 向上箭头	将行向上移动
+	Ctrl+Shift+Enter	将输入的if、for、函数等等补上{}或者;使代码语句完整
+	shift + 回车		在当前行下方插入新行
+	ctrl + alt + 回车	在当前行上方插入新行
+	shift + f6		重命名
+	ctrl + o		添加未实现的方法
+	ctrl + alt + shift + c	拷贝类的全路径
+	ctrl + alt + v		起变量名
+	alt + 回车		处理异常
+	ctrl + alt + m		提取方法
+	ctrl + shift + u	大小写切换
+	ctrl + n		搜索类
+	ctrl + shift + n	搜索文件
+	
+		itar		循环遍历数组
+		itli		循环遍历集合
+		iten		遍历枚举
+		iter		增强for循环
+	
+	ctrl + alt + b		实现方法
+	ctrl + h		查看继承和实现关系
+	ctrl + r		替换
+	ctrl + shift + f	根据关键字查询
+	ctrl + h		查看当前类的实现类
+	
+	debug调试
+		F7	下一步,会到方法内部
+		F8	下一步,不会到方法内部
+		F9	调到下一个断点
