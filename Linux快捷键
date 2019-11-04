@@ -1,0 +1,14 @@
+Linux快捷键:
+	tab键：命令或者路径提示及补全;
+	ctrl+c：放弃当前输入，终止当前任务或程序；
+	ctrl+l：清屏；
+	ctrl+shift+c：复制；
+	ctrl+shift+v：粘贴；
+	alt+b：打开connect窗口；
+	alt+1/2/3/4/5…：切换会话
+	
+	终端命令格式
+		command [-options] [parameter]
+		命令      选项       参数可以是0个,也可是多个
+	
+	
